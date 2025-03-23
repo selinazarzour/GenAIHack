@@ -7,7 +7,7 @@ export default function Mainpage() {
   const [analysisResult, setAnalysisResult] = useState(null)
   const [loading, setLoading] = useState(false)
 
-  const BACKEND_URL = process.env.BACKEND_URL;
+  const BACKEND_URL = 'your-backend-url.com'; // Replace with your actual backend URL
   const optimizeImage = (file) => {
     return new Promise((resolve) => {
       const MAX_WIDTH = 1024
@@ -211,7 +211,7 @@ export default function Mainpage() {
 
                 <div className="bg-white shadow rounded-lg overflow-hidden">
                   <div className="bg-gray-50 py-3 px-4">
-                    <h3 className="text-lg font-bold text-gray-900">Diet Match: &quot;Tailored to your needs&quot;</h3>
+                    <h3 className="text-lg font-bold text-gray-900">Diet Match: "Tailored to your needs"</h3>
                   </div>
                   <div className="p-4">
                     <div className="whitespace-pre-line text-sm text-gray-700">
