@@ -28,39 +28,6 @@ With CraveWell, you can pursue your dream body, your health, and your happiness 
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**:  
-  - Vite + React + Tailwind CSS  
-  - Vercel (Frontend Deployment)
-
-- **Backend**:  
-  - Node.js + Express  
-  - Multer (Image Upload Middleware)  
-  - Ollama (Local LLM Inference)  
-    - **LLaVA**: Visual food analysis  
-    - **Mistral**: Nutrition data generation + embedding  
-
-- **Database**:  
-  - TimescaleDB (PostgreSQL)
-
-- **Infra**:  
-  - Amazon EC2 (Ubuntu t2.large)
-
----
-
-## 🧬 Architecture
-
-![Architecture](https://github.com/Ritesh2351235/nutrition-ai/blob/main/CraveWell.png)
-
----
-
-## 🎥 Demo
-
-![Demo](https://github.com/Ritesh2351235/nutrition-ai/blob/main/demo.png)
-
----
-
 ## 💡 Why We Built This
 
 Too often, people feel trapped by their diet:  
