@@ -8,8 +8,6 @@ With CraveWell, you can pursue your dream body, your health, and your happiness 
 
 ---
 
-![Toppage](https://github.com/Ritesh2351235/nutrition-ai/blob/main/Logo.png)
-
 ## 🚀 What It Does
 
 - 🖼️ **Snap your meal** – Upload a photo of your food
